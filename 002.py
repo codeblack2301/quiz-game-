@@ -28,7 +28,7 @@ for questian in questians:
         print('wrong')
     questian_num+=1
 
-print(f'your score:{score}')
+print(f'your score:{score} congrats!!')
 
 
 
